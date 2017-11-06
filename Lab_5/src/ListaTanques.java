@@ -6,6 +6,8 @@ public class ListaTanques {
 	
 	public ListaTanques() {
 		ListaTanques = new Tanques[10];
+		
 	}
+	
 	
 }
